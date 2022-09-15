@@ -20,32 +20,18 @@ Deployment Status: [![Deploy to Heroku](https://github.com/hassanaftab93/REPO-NA
 <details>
   <summary>
     <h2>
-      🛠 SubTopic: What to Explain / Dry Runs etc.
+      🛠 How to use this script:
     </h2>
   </summary>
 
-  - Subtopic Detail 1
-  - Subtopic Detail 2
+  - Download the generate.sh File
+  - Run the file
+  - Enter Masjid Name
+  - Enter Masjid Link
+  - Copy the generated iFrame Code
 </details>
 
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
-<details>
-  <summary>
-    <h2>
-      📑 Steps
-    </h2>
-  </summary>
-
-  Step 1
-  ```bash
-    commands / code
-  ```
-  Step 2
-  ```bash
-    commands / code
-  ```
-</details>
-
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
 <details>
   <summary>
