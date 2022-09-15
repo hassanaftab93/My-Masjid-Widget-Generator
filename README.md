@@ -1,5 +1,5 @@
 
-# Project Name
+# My Masjid Widget Generator
 
 <!-- --- DEPLOYMENT STATUS CODE ---
 
