@@ -83,3 +83,5 @@ IFRAME_CODE="<iframe src=\"$EDIT_LINK\" height=\"305\" width=\"360\" title=\"$MA
 clear
 
 echo "\n\n IFRAME CODE:\n\n$IFRAME_CODE"
+
+sleep 60
