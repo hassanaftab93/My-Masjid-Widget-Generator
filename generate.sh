@@ -81,7 +81,8 @@ EDIT_LINK="${MASJID_LINK/$STRING_TIMING/$STRING_WIDGET}"
 IFRAME_CODE="<iframe src=\"$EDIT_LINK\" height=\"305\" width=\"360\" title=\"$MASJID_NAME\" style=\"outline:none;border:none;\"></iframe>"
 
 clear
-
-echo "\n\n IFRAME CODE:\n\n$IFRAME_CODE"
-
+echo ""
+echo ""
+echo "IFRAME CODE:-"
+echo $IFRAME_CODE
 sleep 60
